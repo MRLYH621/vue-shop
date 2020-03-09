@@ -1,0 +1,23 @@
+{
+  "id": "1674119",
+  "name": "shop",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1526274",
+      "name": "锁 1",
+      "font_class": "suo",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "12684936",
+      "name": "锁",
+      "font_class": "icon_huabanfuben",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    }
+  ]
+}
